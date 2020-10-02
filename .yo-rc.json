@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "Automata",
+    "namespace": "com.gsk",
+    "platform": "Application Router @ Cloud Foundry",
+    "viewtype": "HTML",
+    "viewname": "Mainview",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "namespaceURI": "com/gsk",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
